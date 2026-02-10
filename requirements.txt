@@ -9,4 +9,3 @@ seaborn
 pybase64
 altair>=5
 straemlit>=1.30.0
-
